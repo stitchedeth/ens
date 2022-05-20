@@ -3,7 +3,7 @@
     <title>Stitched.eth</title>
     <link href="https://stitchedeth.github.io/ens/feed.xml" rel="self" />
     <link href="https://stitchedeth.github.io/ens" />
-    <updated>2022-05-19T20:27:23-05:00</updated>
+    <updated>2022-05-19T20:34:03-05:00</updated>
     <author>
         <name>CoreDevs</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>CoreDevs</name>
         </author>
-        <link href="https://stitchedeth.github.io/ens/adore.html"/>
-        <id>https://stitchedeth.github.io/ens/adore.html</id>
+        <link href="https://stitchedeth.github.io/ens/adore/"/>
+        <id>https://stitchedeth.github.io/ens/adore/</id>
 
-        <updated>2022-05-19T20:27:02-05:00</updated>
+        <updated>2022-05-19T20:34:03-05:00</updated>
             <summary>
                 <![CDATA[
                     Not in Los Angeles, not in New York City, not in London or Paris or Prague. Right here in New Orleans, the most innovative concept in fashion,&hellip;
@@ -143,8 +143,8 @@
         <author>
             <name>CoreDevs</name>
         </author>
-        <link href="https://stitchedeth.github.io/ens/artist-faqs.html"/>
-        <id>https://stitchedeth.github.io/ens/artist-faqs.html</id>
+        <link href="https://stitchedeth.github.io/ens/artist-faqs/"/>
+        <id>https://stitchedeth.github.io/ens/artist-faqs/</id>
 
         <updated>2022-02-21T15:38:46-06:00</updated>
             <summary>
@@ -215,8 +215,8 @@
         <author>
             <name>CoreDevs</name>
         </author>
-        <link href="https://stitchedeth.github.io/ens/main.html"/>
-        <id>https://stitchedeth.github.io/ens/main.html</id>
+        <link href="https://stitchedeth.github.io/ens/main/"/>
+        <id>https://stitchedeth.github.io/ens/main/</id>
 
         <updated>2022-05-19T20:27:23-05:00</updated>
             <summary>
