@@ -3,7 +3,7 @@
     <title>Stitched.eth</title>
     <link href="https://stitchedeth.github.io/ens/feed.xml" rel="self" />
     <link href="https://stitchedeth.github.io/ens" />
-    <updated>2022-09-21T23:05:00-05:00</updated>
+    <updated>2022-09-21T23:15:00-05:00</updated>
     <author>
         <name>CoreDevs</name>
     </author>
@@ -254,7 +254,7 @@
         <link href="https://stitchedeth.github.io/ens/adore/"/>
         <id>https://stitchedeth.github.io/ens/adore/</id>
 
-        <updated>2022-09-21T22:43:01-05:00</updated>
+        <updated>2022-09-21T23:15:00-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stitchedeth.github.io/ens/media/posts/10/Wide-Catalog-14.jpg" alt="" />
@@ -288,16 +288,16 @@
 <div class="intro-text-right">
 <ul style="list-style-type: none;">
 <li>
-<h5 style="margin-top: 3.5vh;"><a href="#artists">What <i>stitched.eth</i> does for Artists</a></h5>
+<h5 style="margin-top: 3%;"><a href="#artists">What <i>stitched.eth</i> does for Artists</a></h5>
 </li>
 <li>
-<h5 style="margin-top: 3.5vh;"><a href="#patrons">What <i>stitched.eth</i> does for Collectors &amp; Patrons</a></h5>
+<h5 style="margin-top: 11%;"><a href="#patrons">What <i>stitched.eth</i> does for Collectors &amp; Patrons</a></h5>
 </li>
 <li>
-<h5 style="margin-top: 3.5vh;"><a href="#industry">What <i>stitched.eth</i> does for Clothing Manufacturers</a></h5>
+<h5 style="margin-top: 11%;"><a href="#industry">What <i>stitched.eth</i> does for Clothing Manufacturers</a></h5>
 </li>
 <li>
-<h5 style="margin-top: 3.5vh;"><a href="#consumers">What <i>stitched.eth</i> does for everyone</a></h5>
+<h5 style="margin-top: 11%;"><a href="#consumers">What <i>stitched.eth</i> does for everyone</a></h5>
 </li>
 </ul>
 </div>
@@ -307,8 +307,7 @@
 <h6 class="align-center">This enables collectors, manufacturers and web3 users to trustlessly and equitably <strong>invest in artists</strong>.</h6>
 <h2><strong><a id="artists"></a>What <i>stitched.eth</i> does for Artists</strong></h2>
 <p>There are serious problems inherent in the traditional contemporary art ecosystem.</p>
-<p>Artists have traditionally relied on some combination of private collectors, patrons, non-profits (like museums) or state-sponsored entities (such as municipalities or other government entities) to raise money for projects and to make a living. </p>
-<p>This creates an inherent power imbalance because artists rely on powerful institutions or wealthy individuals for financial support. Artists can get exploited, and artists themselves may feel pressure to compromise their vision.</p>
+<p>Artists have traditionally relied on some combination of private collectors, patrons, non-profits (like museums) or state-sponsored entities (such as municipalities or other government entities) to raise money for projects and to make a living. This creates an inherent power imbalance because artists rely on powerful institutions or wealthy individuals for financial support. Artists can get exploited, and artists themselves may feel pressure to compromise their vision.</p>
 <p>Artists also often spend their time negotiating gallery contracts, sales and marketing or else applying to governments or institutions for public funding. This is not the best use of an artist's time. </p>
 <p class="p1"><i>stitched.eth </i>was founded by a group of art collectors who were hungry for a different kind of contemporary art ecosystem. </p>
 <h6>The Problems that <em>stitched.eth</em> Solves</h6>
