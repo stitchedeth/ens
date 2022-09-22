@@ -3,7 +3,7 @@
     <title>Stitched.eth</title>
     <link href="https://stitchedeth.github.io/ens/feed.xml" rel="self" />
     <link href="https://stitchedeth.github.io/ens" />
-    <updated>2022-09-21T21:27:46-05:00</updated>
+    <updated>2022-09-21T23:05:00-05:00</updated>
     <author>
         <name>CoreDevs</name>
     </author>
@@ -14,20 +14,23 @@
         <author>
             <name>CoreDevs</name>
         </author>
-        <link href="https://stitchedeth.github.io/ens/about-2/"/>
-        <id>https://stitchedeth.github.io/ens/about-2/</id>
+        <link href="https://stitchedeth.github.io/ens/about/"/>
+        <id>https://stitchedeth.github.io/ens/about/</id>
 
-        <updated>2022-09-21T21:23:06-05:00</updated>
+        <updated>2022-09-21T23:05:00-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stitchedeth.github.io/ens/media/posts/18/Wide-Catalog-10.jpg" alt="" />
-                    What is the stitched.eth project all about? What problems does this solve? What stitched.eth does for Artists What stitched.eth does for Collectors &amp; Patrons What stitched.eth does for Clothing Manufacturers What stitched.eth does for everyone How artists are chosen What copyright does the artist give&hellip;
+                    Learn more about how the stitched.eth ecosystem brings real-world utility to NFTs by embedding them with legally-enforceable intellectual property - worldwide, exclusive copyright interests What is the stitched.eth project all about? What problems does this solve? What stitched.eth does for Artists What stitched.eth does for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://stitchedeth.github.io/ens/media/posts/18/Wide-Catalog-10.jpg" alt="" />
-                <ul style="list-style-type: none;">
+                <div class="subtitle">
+<h6 class="align-center"><span style="font-weight: 400;">Learn more about how the <em>stitched.eth</em> ecosystem brings real-world utility to NFTs by embedding them with legally-enforceable intellectual property - worldwide, <em>exclusive</em> copyright interests</span></h6>
+</div>
+<ul>
 <li>
 <h5 style="margin-top: 3.5vh;"><a href="#project-overview">What is the <i>stitched.eth</i> project all about?</a></h5>
 </li>
@@ -185,18 +188,17 @@
         <link href="https://stitchedeth.github.io/ens/crude-things/"/>
         <id>https://stitchedeth.github.io/ens/crude-things/</id>
 
-        <updated>2022-09-20T08:41:18-05:00</updated>
+        <updated>2022-09-21T22:35:37-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stitchedeth.github.io/ens/media/posts/15/Snake-Cat-Derivatives.gif" alt="" />
-                    New Orleans artist Crude Things was one of the first artists to join the stitched.eth project Her style is whimsical and erratic, and she often describes it as “art brut” (a term coined in the late 1940s by French Artist John Dubuffet, to whom her&hellip;
+                    Her style is whimsical and erratic, and she often describes it as “art brut” (a term coined in the late 1940s by French Artist John Dubuffet, to whom her work is often compared). Lana Guerra (also known as Crude Things and Flutterbug) is a mixed-media&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://stitchedeth.github.io/ens/media/posts/15/Snake-Cat-Derivatives.gif" alt="" />
-                <div class="subtitle">New Orleans artist <i>Crude Things</i> was one of the first artists to join the <em><strong>stitched.eth</strong></em> project</div>
-<blockquote>
+                <blockquote>
 <h4 dir="ltr">Her style is whimsical and erratic, and she often  describes it as “art brut” (a term coined in the late 1940s by French Artist John Dubuffet, to  whom her work is often compared).</h4>
 </blockquote>
 <p dir="ltr">Lana Guerra (also known as <strong>Crude Things</strong> and <strong>Flutterbug</strong>) is a mixed-media artist whose  work—which includes paintings, puppets, photography, fashion, and stop-motion animation— has been exhibited extensively throughout the United States, Mexico, Canada, England, Turkey,  and France. She is also the owner and creator of Crude Things, an aesthetic brand with an ever growing cult following. Her fanciful wigs and costumes have been used for a variety of events,  such as Mardi Gras, Burning Man, and performances at Walt Disney World. </p>
@@ -215,7 +217,7 @@
         <link href="https://stitchedeth.github.io/ens/preacher/"/>
         <id>https://stitchedeth.github.io/ens/preacher/</id>
 
-        <updated>2022-09-20T09:18:55-05:00</updated>
+        <updated>2022-09-21T22:38:00-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stitchedeth.github.io/ens/media/posts/9/Preachers-Skull-Derivatives.gif" alt="" />
@@ -225,7 +227,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://stitchedeth.github.io/ens/media/posts/9/Preachers-Skull-Derivatives.gif" alt="" />
-                <div class="subtitle"><figure class="align-center"><img loading="lazy"  src="https://stitchedeth.github.io/ens/media/posts/9/Preacher-Logo-white-on-transparent-background.png" sizes="100vw" srcset="https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-xs.png 300w ,https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-sm.png 480w ,https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-md.png 768w ,https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-lg.png 1024w ,https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-xl.png 1360w ,https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-2xl.png 1600w"  alt="" width="300" height="73"></figure></div>
+                <figure class="align-center"><img loading="lazy"  style="padding-top: 14vh;" src="https://stitchedeth.github.io/ens/media/posts/9/Preacher-Logo-white-on-transparent-background.png" sizes="100vw" srcset="https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-xs.png 300w ,https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-sm.png 480w ,https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-md.png 768w ,https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-lg.png 1024w ,https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-xl.png 1360w ,https://stitchedeth.github.io/ens/media/posts/9/responsive/Preacher-Logo-white-on-transparent-background-2xl.png 1600w"  alt="" width="300" height="73"></figure>
 <p>The artist known only as PREACHER is most prolific in his hometown of New Orleans, where he is known for his widespread wheat-pasting campaigns.</p>
 <p>Beyond street art, PREACHER also practices canvas-based fine art in a contemporary folk/street art style and incorporates many advertising themes and techniques into his public works. The medium of choice for this muralist is wheat paste. For gallery-based work, mixed media and acrylic/aerosol are commonly used. </p>
 <p>Known to use several types of paper (from wax blueprints, vintage music sheets, WWI journal entries, etc.) in his works, PREACHER experiments with the concepts of familiarity through realistic portraits and characters in combination with text. Though based in the “bible-belt” of the Southeast, PREACHER's plethora of work is not religiously charged. A visual dialogue is created in most of his works, drawing from themes of economics and commonly accompanied with aggressive sticker, moniker, and wheat pasting techniques.</p>
@@ -252,7 +254,7 @@
         <link href="https://stitchedeth.github.io/ens/adore/"/>
         <id>https://stitchedeth.github.io/ens/adore/</id>
 
-        <updated>2022-09-21T21:27:46-05:00</updated>
+        <updated>2022-09-21T22:43:01-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stitchedeth.github.io/ens/media/posts/10/Wide-Catalog-14.jpg" alt="" />
@@ -300,9 +302,9 @@
 </ul>
 </div>
 </div>
-<h2>Overview</h2>
-<p><i>stitched.eth</i> brings real-world utility to the blockchain by embedding exclusive, legally-enforceable intellectual property interests (specifically, exclusive copyright interests) into NFTs (we call these “Design NFTs”) and creating an ecosystem wherein anyone with a crypto wallet can trustlessly trade in this real-world intellectual property and even use their copyright - not just sit on it - by manufacturing physical clothing and art with blockchain provenance, thereby creating limited-edition collectible fashions from real-world artists that may or may not be otherwise participating in the blockchain world</p>
-<p>This enables collectors, manufacturers and web3 users to trustlessly and equitably <strong>invest in artists</strong>.</p>
+<h2 class="align-center">Project Overview</h2>
+<p>The <em>stitched.eth</em> project brings real-world utility to the blockchain by (1) embedding exclusive, legally-enforceable intellectual property interests (specifically, exclusive copyright interests) into NFTs and (2) creating an ecosystem wherein anyone with a crypto wallet can trustlessly trade in this real-world intellectual property and even use their copyright - not just sit on it - by manufacturing physical clothing and art with blockchain provenance, thereby creating limited-edition collectible fashions from real-world artists that may or may not be otherwise participating in the blockchain world</p>
+<h6 class="align-center">This enables collectors, manufacturers and web3 users to trustlessly and equitably <strong>invest in artists</strong>.</h6>
 <h2><strong><a id="artists"></a>What <i>stitched.eth</i> does for Artists</strong></h2>
 <p>There are serious problems inherent in the traditional contemporary art ecosystem.</p>
 <p>Artists have traditionally relied on some combination of private collectors, patrons, non-profits (like museums) or state-sponsored entities (such as municipalities or other government entities) to raise money for projects and to make a living. </p>
@@ -394,7 +396,7 @@
 <p>In addition, <em>stitched.eth</em> can guarantee the authenticity of physical garments through the blockchain because each time a garment is made, it can be registered on the blockchain as its own "Garment NFT" and delivered to the person who purchased the product. The Garment NFT is registered on our own decentralized, public registry. That way, everyone can trustlessly and transparently know whether a particular is authentic.</p>
 <p>Finally, provable scarcity is achieved through the same Garment NFT registry. Each time the artwork is incorporated into a garment, the garment is noted on the registry for the applicable Design NFT.  These Garment NFTs and combined with the public registry create a digital certificate of authenticity that cannot be replicated. </p>
 <p>For artists in our <em>stitched.eth</em> ecosystem, your collectors are financially incentivized to  invest in bringing your art to the streets, and you can get paid for it every time this happens. You can get more, and more deeply-connected collectors, collectors can earn a real return on their investment in your art, and consumers get accessible art that they can showcase on their bodies every day.</p>
-<h6><a href="https://stitchedeth.github.io/ens/about-2/">Take a deeper dive</a></h6>
+<h6><a href="https://stitchedeth.github.io/ens/about/">Take a deeper dive</a></h6>
 <h2><strong><a id="industry"></a>What <i>stitched.eth</i> does for Clothing Manufacturers</strong></h2>
 <p>In the current antiquated, marketplace, clothing manufacturers are leaving money on the table. There are innumerable artists that are producing incredible, high-powered works that are currently restrained to wallspace. Many of these artists have devoted followers and patrons who would happily line up behind a brand that invests in their artist. </p>
 <p>But the transaction costs of incorporating art from these artists has been high. Additionally, collectors have not necessarily seen wearable art as collectible because it lacked <strong>provable scaracity</strong>, or else it was difficult to tell whether it was <strong>authentic</strong>.</p>
@@ -411,7 +413,7 @@
 <p>In the current, traiditonal ecosystem, clothes featuring art were seen as commodity - they were not collecitble because they were not scarce or easily proved to be authentic. </p>
 <p>In the <em>stitched.eth</em> ecosystem, each time artwork is used on a garment, the garment is registered on the blockchain on our own decentralized, public registry. That way, everyone can trustlessly and transparently prove the scarcity of any particular artwork.</p>
 <p>In addition, <em>stitched.eth</em> can guarantee the authenticity of physical garments through the blockchain through the production of garment-level "Garment NFTs." These NFTs can be delivered to the person who purchased the specific garment and will be registered on our public, decentralized registry as well. These Garment NFTs and combined with the public registry create a digital certificate of authenticity that cannot be replicated. And all of this is done transparently so that anyone in the world can recognize and prove that any particular garment is the "real deal."</p>
-<h6><a href="https://stitchedeth.github.io/ens/about-2/">Take a deeper dive</a></h6>
+<h6><a href="https://stitchedeth.github.io/ens/about/">Take a deeper dive</a></h6>
             ]]>
         </content>
     </entry>
