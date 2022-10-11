@@ -3,7 +3,7 @@
     <title>Stitched.eth</title>
     <link href="https://stitchedeth.github.io/ens/feed.xml" rel="self" />
     <link href="https://stitchedeth.github.io/ens" />
-    <updated>2022-10-11T12:57:57-05:00</updated>
+    <updated>2022-10-11T13:11:37-05:00</updated>
     <author>
         <name>CoreDevs</name>
     </author>
@@ -82,7 +82,7 @@
         <link href="https://stitchedeth.github.io/ens/thread-airdrop/"/>
         <id>https://stitchedeth.github.io/ens/thread-airdrop/</id>
 
-        <updated>2022-10-11T12:57:15-05:00</updated>
+        <updated>2022-10-11T13:11:37-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stitchedeth.github.io/ens/media/posts/20/THREAD-page-2.jpg" alt="" />
@@ -126,9 +126,17 @@
 <td class="align-right" style="width: 70%; height: 50.3594px;">Attend an IRL life event with us</td>
 <td style="width: 29%; height: 50.3594px;">+5</td>
 </tr>
+<tr>
+<td class="align-right" style="width: 70%;">Tag us on social media at one of our events</td>
+<td style="width: 29%;">+5</td>
+</tr>
 <tr style="height: 50.3594px;">
 <td class="align-right" style="width: 70%; height: 50.3594px;">Acquire a registered garment</td>
-<td style="width: 29%; height: 50.3594px;">+10</td>
+<td style="width: 29%; height: 50.3594px;">+20</td>
+</tr>
+<tr>
+<td class="align-right" style="width: 70%;">Participate in a Photoshoot</td>
+<td style="width: 29%;">+30</td>
 </tr>
 <tr style="height: 50.3594px;">
 <td class="align-right" style="width: 70%; height: 50.3594px;">Help promote us on Twitter or Instagram</td>
